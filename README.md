@@ -14,14 +14,14 @@ This project implements a Medical Image Classification system using a Convolutio
 
 ## Dataset Structure
 
-Dataset
-├── Train
-│ ├── Normal
-│ └── Pneumonia
+Dataset/
+├── Train/
+│ ├── Normal/
+│ └── Pneumonia/
 │
-└── Test
-├── Normal
-└── Pneumonia
+└── Test/
+├── Normal/
+└── Pneumonia/
 
 ## Technologies Used
 
