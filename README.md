@@ -23,6 +23,9 @@ Dataset/
 ├── Normal/
 └── Pneumonia/
 
+Dataset is not included in this repository due to GitHub storage limitations.
+The Chest X-Ray dataset can be downloaded from Kaggle.
+
 ## Technologies Used
 
 * Python
@@ -68,6 +71,9 @@ python train_model.py
 The trained model will be saved as:
 
 model.h5
+
+The trained model file (model.h5) is not included due to GitHub upload limitations.
+Run train_model.py to generate the model locally.
 
 ## Prediction
 
